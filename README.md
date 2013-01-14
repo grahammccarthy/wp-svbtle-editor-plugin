@@ -6,6 +6,11 @@ wp-svbtle editor plugin
 
   [Follow us on twitter]: http://twitter.com/ThemesKult
   
+## Setup
+* Copy the folder to /wp-content/plugins
+* Enable from admin area
+* Go to Options > Permalinks and re-save your permalinks settings.
+
 ## Screenshots 
 
 

@@ -4,7 +4,7 @@ wp-svbtle editor plugin
 
 #### wp-svbtle editor plugin makes blogging a lot easier by clearing your sight and giving the elements you need for a good post. 
 
-##### [Follow us on twitter][]: http://twitter.com/ThemesKult
+##### [Follow us on twitter](http://twitter.com/ThemesKult)
   
 ## Setup
 * Copy the folder to /wp-content/plugins
